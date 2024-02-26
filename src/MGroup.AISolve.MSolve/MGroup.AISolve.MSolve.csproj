@@ -11,7 +11,7 @@
     <PackageIconUrl>https://github.com/mgroupntua/AISolve.MSolve/raw/develop/AISolveMSolve.png</PackageIconUrl>  </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MGroup.AISolve.Core" Version="0.1.0-unstable.3" />
+    <PackageReference Include="MGroup.AISolve.MachineLearning" Version="0.1.0-unstable.0" />
     <PackageReference Include="MGroup.NumericalAnalyzers.Discretization" Version="0.2.0-unstable.62" />
     <PackageReference Include="MGroup.Solvers.MachineLearning" Version="0.2.0-unstable.27" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
